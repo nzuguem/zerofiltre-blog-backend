@@ -22,7 +22,7 @@ logging:
       hibernate.SQL: DEBUG
     tech.zerofiltre: DEBUG
 server:
-  port: 80
+  port: 8080
 
 logbook:
   write.max-body-size: 50
